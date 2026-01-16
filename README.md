@@ -18,3 +18,16 @@ Centralizador de instaladores e documentos corporativos desenvolvido em Python.
 ## ▶️ Como executar
 ```bash
 python SoftwareHub.py
+
+pyinstaller --onefile --noconsole SoftwareHub.py
+
+
+---
+
+## 6️⃣ INICIALIZAR O GIT LOCALMENTE
+
+No terminal, **dentro da pasta do projeto**:
+
+```powershell
+git init
+
